@@ -12,5 +12,5 @@
 | `main` | method | `app.py:407` | `def main()` |
 | `null_space_surgery_chaotic` | method | `app.py:287` | `def null_space_surgery_chaotic(base_model, scale_factor)` |
 | `plot_chaotic_learning_curves` | method | `app.py:377` | `def plot_chaotic_learning_curves(history, model_name)` |
-| `train_with_hamiltonian_regularization` | method | `app.py:155` | `def train_with_hamiltonian_regularization(model, X_train, y_train, X_test, y_test, epochs, patience, grok_threshold...` |
+| `train_with_hamiltonian_regularization` | method | `app.py:155` | `def train_with_hamiltonian_regularization(model, X_train, y_train, X_test, y_test, epochs, patience, grok_threshold, lam` |
 | `visualize_chaotic_dynamics` | method | `app.py:331` | `def visualize_chaotic_dynamics(model, X_test, y_test, model_name)` |

@@ -1,13 +1,13 @@
 # Subsystem: root
 
 ## app.py
-- Doc: Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación...
 - Layer: utility
+- Doc: app.py  Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación: xx/xx/xxxx Licenci
 - Language: py
 - Symbols:
   - `generate_and_save_chaotic_pendulum_dataset` (function, line 38) `def generate_and_save_chaotic_pendulum_dataset(n_samples, dt, t_max, seed, force_regenerate)`
   - `SymplecticPredictor` (class, line 128) `class SymplecticPredictor(Module)`
-  - `train_with_hamiltonian_regularization` (method, line 155) `def train_with_hamiltonian_regularization(model, X_train, y_train, X_test, y_test, epochs, patience, grok_threshold...`
+  - `train_with_hamiltonian_regularization` (method, line 155) `def train_with_hamiltonian_regularization(model, X_train, y_train, X_test, y_test, epochs, patience, grok_threshold, lambda_h)`
   - `analyze_symplectic_invariants` (method, line 254) `def analyze_symplectic_invariants(model, X_sample)`
   - `null_space_surgery_chaotic` (method, line 287) `def null_space_surgery_chaotic(base_model, scale_factor)`
   - `visualize_chaotic_dynamics` (method, line 331) `def visualize_chaotic_dynamics(model, X_test, y_test, model_name)`
